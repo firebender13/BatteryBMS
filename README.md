@@ -1,2 +1,3 @@
 # BatteryBMS
-OpenSource
+OpenSource Battery Managment system
+Test
